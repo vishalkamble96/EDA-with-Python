@@ -11,7 +11,7 @@ This project demonstrates the use of Python for conducting **Exploratory Data An
 
 ## 🗂️ Repository Structure
 ```
-📂 crime-eda-python/
+📂 EDA-with-Python/
 ├── 📂 dataset/
 │   ├── crime.csv                   # Raw dataset for analysis
 ├── placeholder                     # Placeholder file (optional, for structure reference)
